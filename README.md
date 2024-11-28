@@ -15,11 +15,11 @@ The home section provides a brief introduction to the blog and what readers can 
 
 ## About
 
-In the about section, you can learn more about me, Brandon Miyazaki, and my background as a passionate blogger and tech enthusiast.
+In the about section, you can learn more about me, Brandon Miyazaki, and my background as Cloud Solution Architect and tech enthusiast.
 
 ## Blog
 
-The blog section contains my blog posts. Here, you will find articles on a variety of topics that interest me.
+The blog section contains my blog posts. Here, you will find articles on a variety of topics that I hope interest you.
 
 ## Contact
 
@@ -27,7 +27,7 @@ If you wish to get in touch with me, you can find my contact information in the 
 
 ## Purpose
 
-The purpose of this GitHub Pages site is to provide a platform for me to share my thoughts and experiences with a wider audience. It serves as a personal space where I can express myself and connect with like-minded individuals.
+The purpose of this GitHub Pages site is to provide a platform for me to share my knowledge and experiences with a wider audience. It serves as a space where I can contribute to the tech community and connect with like-minded individuals.
 
 ## License
 
